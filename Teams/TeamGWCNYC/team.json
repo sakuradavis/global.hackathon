@@ -1,0 +1,36 @@
+{
+  "teamName": "Team GWCNYC",
+  "members": [
+    {
+      "name": "Sakura Davis",
+      "twitter": "twitter acct no @",
+      "koding": "sakuradavis",
+      "location": "New York, US"
+      "lead": true
+    },
+    {
+      "name": "Mary Karroqe",
+      "twitter": "",
+      "koding": "sent-hil",
+      "location": "New York, US"
+    },
+    {
+      "name": "Amy Sorto",
+      "twitter": "",
+      "koding": "sinan",
+      "location": "San Francsico, US",
+    },
+    {
+      "name": "Anastasia",
+      "twitter": "",
+      "koding": "devrim",
+      "location": "San Francsico, US"
+    },
+    {
+      "name": "Victoria Gnip",
+      "twitter": "",
+      "koding": "nitin",
+      "location": "Turin, US"
+    }
+  ]
+}
